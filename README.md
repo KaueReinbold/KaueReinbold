@@ -17,5 +17,3 @@
 Innovative professional offering more than 5 years of experience in demanding environments focused on producing cutting-edge systems. Skilled in developing with a creative and delivery-oriented approach. Fast learner and seek to master new technologies. Works in a team and self-managed settings. <p>
 
 <p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=KaueReinbold&show_icons=true&theme=dark" /></p>
-
-<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaueReinbold&theme=dark" /></p>
