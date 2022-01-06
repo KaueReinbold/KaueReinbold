@@ -25,3 +25,6 @@ I am excited about learning new ways of solving complex problems. That is why I 
 <p align="center">
 :rocket:
 </p>
+<p align="center">
+![Kaue's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+</p>
