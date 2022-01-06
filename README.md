@@ -25,9 +25,3 @@
 <p align="center">
   :rocket:
 </p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KaueReinbold&theme=dark&show_icons=true&hide_title=true" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaueReinbold&langs_count=30&layout=compact&theme=dark&show_icons=true&hide_title=true" />
-</p>
