@@ -1,14 +1,14 @@
 <p align="center">
-  <a href="https://github.com/KaueReinbold" target="_blank">
+  <a href="https://github.com/KaueReinbold" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Github-000?logo=Github&logoColor=white&link=https://github.com/KaueReinbold" alt="GitHub badge" />
   </a>
-  <a href="https://www.linkedin.com/in/kaue-reinbold" target="_blank">
+  <a href="https://www.linkedin.com/in/kaue-reinbold" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaue-reinbold/" alt="LinkedIn" />
   </a>
-  <a href="https://www.twitter.com/KaueReinbold" target="_blank">
+  <a href="https://www.twitter.com/KaueReinbold" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Twitter-blue?labelColor=blue&logo=twitter&logoColor=white&link=https://www.twitter.com/KaueReinbold/" alt="Twitter" />
   </a>
-  <a href="https://www.medium.com/@kauereinbold" target="_blank">
+  <a href="https://www.medium.com/@kauereinbold" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Medium-gray?labelColor=gray&logo=medium&logoColor=white&link=https://www.medium.com/@kauereinbold/" alt="Medium" />
   </a>
 </p>
