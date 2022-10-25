@@ -22,6 +22,15 @@
 <p align="center">
   I am excited about learning new ways of solving complex problems. That is why I keep myself up-to-date with the latest technologies, languages, and programming patterns.
 </p>
+
+<div align="center">
+
+![Kaue's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaueReinbold&show_icons=true&theme=gotham)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaueReinbold&theme=gotham&layout=compact)](https://github.com/KaueReinbold)
+
+</div>
+
 <p align="center">
   :rocket:
 </p>
